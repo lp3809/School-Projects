@@ -1,2 +1,1 @@
-# Private-Projects
-Private Repo for potential employers
+Repo for potential employers
