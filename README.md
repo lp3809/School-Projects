@@ -1,1 +1,1 @@
-Repo for potential employers
+School Projects
